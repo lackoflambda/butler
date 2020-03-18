@@ -32,7 +32,7 @@
 (show-paren-mode 1)
 
 ;;; スペース・タブを強調
-(global-whitespace-mode 1)
+;(global-whitespace-mode 1)
 
 ;;; スクロール 1行ずつ
 (setq scroll-conservatively 1)

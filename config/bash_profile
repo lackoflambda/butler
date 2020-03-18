@@ -1,0 +1,10 @@
+# tmux
+if [ $SHLVL = 1 ]; then
+    tmux
+fi
+
+# bashrc
+source .bashrc
+
+# Dropbox
+#~/.dropbox-dist/dropboxd &
